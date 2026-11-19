@@ -81,3 +81,6 @@ The project follows a **Star Schema** where:
 - Highlighted top-performing products and categories.
 
 ---
+I used [AI tool name, e.g. ChatGPT / Claude / Gemini] as an assistant while working on this project. I used it to decide which SQL queries to write and to help evaluate and double-check my results. I ran every query myself and checked the outputs against the source data in [Excel].
+
+
